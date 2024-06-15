@@ -3,7 +3,7 @@ kind: Plugin
 metadata:
   name: cs-zcyl-products
 spec:
-  version: 1.3.0
+  version: 1.4.0
   requires: ">=2.8.0"
   author:
     name: Halo OSS Team

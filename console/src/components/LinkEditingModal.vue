@@ -252,13 +252,6 @@ const handleSaveLink = async () => {
             <FormKit type="attachment" name="secondImage" label="第二张图片"> </FormKit>
             <FormKit type="text" name="secondDesc" label="第二张图片说明"></FormKit>
 
-            <FormKit
-              type="repeater"
-              name="featureParamList"
-              label="产品特色(添加多个)"
-            >
-              <FormKit type="text" name="desc" label="特色名称"> </FormKit>
-            </FormKit>
           </FormKit>
         </div>
       </div>
